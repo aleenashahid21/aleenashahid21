@@ -103,7 +103,6 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aleenashahid21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleenashahid21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 <!--
@@ -123,7 +122,7 @@ It needs a small GitHub Action, not just README code:
   <a href="https://github.com/aleenashahid21">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="aleenashahid.019664@gmail.com">
+  <a href="mailto:aleenashahid.019664@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aleena-shahid-86220628b/">
