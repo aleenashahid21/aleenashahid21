@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 I'm Aleena Shahid</h1>
 
-<h3><em>Software Developer | ML &amp; Computer Vision Enthusiast</em></h3>
+<h3><em>Software Developer | Exploring AI/ML &amp; Bioinformatics</em></h3>
 
 ---
 
@@ -98,9 +98,6 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
-*(Assumed you use Git, GitHub, VS Code, and Jupyter day-to-day — remove/swap any that aren't right.)*
-
 ---
 
 ### 📊 GitHub Stats
@@ -109,11 +106,6 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
   <img src="https://github-readme-stats.vercel.app/api?username=aleenashahid21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleenashahid21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenashahid21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <!--
 Want the animated "contribution snake" like in the example?
 It needs a small GitHub Action, not just README code:
@@ -131,7 +123,7 @@ It needs a small GitHub Action, not just README code:
   <a href="https://github.com/aleenashahid21">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:aleenashahid.019664@gmail.com">
+  <a href="aleenashahid.019664@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aleena-shahid-86220628b/">
