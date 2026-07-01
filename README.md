@@ -41,8 +41,6 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
 </tr>
 </table>
 
-*(Project one-liners are my best guess from the names — swap in your real descriptions and repo links!)*
-
 ---
 
 ### 🏆 Highlights
