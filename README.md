@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Aleena%20Shahid&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20Computer%20Vision&descAlignY=58&descSize=18&descColor=ffffff" alt="Header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%21%20I%27m%20Aleena%20Shahid&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20Computer%20Vision&descAlignY=58&descSize=18&descColor=ffffff" alt="Header banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🧠 Exploring **Computer Vision** with OpenCV and MediaPipe Pose
 - 🌐 Crafting web experiences with **React**, **Node.js**, and **JavaScript** — still solidifying the core syntax as I build
 - 🤝 Open to **internships** where I can learn, grow, and network within the CS community
-- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development, Bioinformatics
+- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development
 - 📖 When I'm not coding, I'm usually reading a good book
 
 ---
@@ -24,22 +24,31 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **📋 [ENROLLIX](https://github.com/aleenashahid21/ENROLLIX)**
 
 A project focused on streamlining and simplifying the enrollment process.
 
-`SQL` `React` `Node.js`
+`SQL` `Node.js` `React`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **🦴 [OrthoVision](https://github.com/aleenashahid21/OrthoVision)**
 
 A computer vision project using OpenCV and MediaPipe Pose to analyze body posture and movement.
 
 `Python` `OpenCV` `MediaPipe`
+
+</td>
+<td width="33%" valign="top">
+
+**📈 [GDP Analyzer](https://github.com/aleenashahid21/GDP-Analyzer)**
+
+A data analysis project exploring GDP trends and economic indicators, with visualizations to uncover insights.
+
+`Python` `Pandas` `Matplotlib`
 
 </td>
 </tr>
@@ -100,7 +109,6 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -122,7 +130,6 @@ It needs a small GitHub Action, not just README code:
 3. It will generate an SVG you can embed here, e.g.:
    <img src="https://raw.githubusercontent.com/aleenashahid21/aleenashahid21/output/github-contribution-grid-snake.svg" />
 -->
-
 ---
 
 ### 📬 Connect With Me
