@@ -1,6 +1,10 @@
-<h1>Hi there! 👋 I'm Aleena Shahid</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there!%20I'm%20Aleena%20Shahid&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20Computer%20Vision&descAlignY=58&descSize=18&descColor=ffffff" alt="Header banner" width="100%"/>
+</p>
 
-<h3><em>Software Developer | Exploring AI/ML &amp; Bioinformatics</em></h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aleenashahid21&color=6c5ce7&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
 
 ---
 
@@ -11,7 +15,7 @@
 - 🧠 Exploring **Computer Vision** with OpenCV and MediaPipe Pose
 - 🌐 Crafting web experiences with **React**, **Node.js**, and **JavaScript** — still solidifying the core syntax as I build
 - 🤝 Open to **internships** where I can learn, grow, and network within the CS community
-- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development
+- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development, Bioinformatics
 - 📖 When I'm not coding, I'm usually reading a good book
 
 ---
@@ -26,7 +30,7 @@
 
 A project focused on streamlining and simplifying the enrollment process.
 
-`Python` `SQL` `React`
+`SQL` `React` `Node.js`
 
 </td>
 <td width="50%" valign="top">
@@ -96,13 +100,20 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleenashahid21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleenashahid21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenashahid21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 <!--
 Want the animated "contribution snake" like in the example?
 It needs a small GitHub Action, not just README code:
@@ -129,3 +140,7 @@ It needs a small GitHub Action, not just README code:
 </p>
 
 <p align="center"><i>Open to internships in software engineering, ML, or CV — let's connect! 🚀</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer banner" width="100%"/>
+</p>
