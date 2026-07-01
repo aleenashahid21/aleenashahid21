@@ -1,17 +1,17 @@
 <h1>Hi there! 👋 I'm Aleena Shahid</h1>
 
-<h3><em>Software Developer | ML &amp; Exploring AI/ML</em></h3>
+<h3><em>Software Developer | ML &amp; Computer Vision Enthusiast</em></h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🎓 BSCS student at **FAST-NUCES**
-- 🌱 Currently learning and building projects in **web development** , **machine learning** and **AI**
+- 🌱 Currently learning and building projects in **web development** and **machine learning**
 - 🧠 Exploring **Computer Vision** with OpenCV and MediaPipe Pose
 - 🌐 Crafting web experiences with **React**, **Node.js**, and **JavaScript** — still solidifying the core syntax as I build
 - 🤝 Open to **internships** where I can learn, grow, and network within the CS community
-- 📚 Interested in: AI/ML, Computer Vision, Bioinformatics, Full-Stack Development
+- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development
 - 📖 When I'm not coding, I'm usually reading a good book
 
 ---
@@ -24,7 +24,7 @@
 
 **📋 [ENROLLIX](https://github.com/aleenashahid21/ENROLLIX)**
 
-A project focused on streamlining and simplifying the course enrollment process.
+A project focused on streamlining and simplifying the enrollment process.
 
 `Python` `SQL` `React`
 
@@ -40,6 +40,9 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
 </td>
 </tr>
 </table>
+
+*(Project one-liners are my best guess from the names — swap in your real descriptions and repo links!)*
+
 ---
 
 ### 🏆 Highlights
@@ -63,22 +66,40 @@ A computer vision project using OpenCV and MediaPipe Pose to analyze body postur
 
 ### 🛠️ Tech Stack
 
+**Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+*(Assumed you use Git, GitHub, VS Code, and Jupyter day-to-day — remove/swap any that aren't right.)*
 
 ---
 
@@ -104,12 +125,17 @@ It needs a small GitHub Action, not just README code:
 
 ---
 
+### 📬 Connect With Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/aleenashahid21">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aleenashahid.019664@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aleena-shahid-86220628b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
