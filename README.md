@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%21%20I%27m%20Aleena%20Shahid&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Exploring%20AI%2FML%20and%20Computer%20Vision&descAlignY=58&descSize=18&descColor=ffffff" alt="Header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there%21%20I%27m%20Aleena%20Shahid&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Exploring%20AI%2FML%20and%20Computer%20Vision&descAlignY=75&descSize=18&descColor=ffffff" alt="Header banner" width="100%"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aleenashahid21&color=6c5ce7&style=flat-square&label=Profile+Views" alt="Profile views"/>
