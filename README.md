@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aleenashahid21&color=6c5ce7&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
----
+
 ### 🧑‍💻 About Me
 
 - 🎓 BSCS student at **FAST-NUCES**
