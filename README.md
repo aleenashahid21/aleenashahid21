@@ -33,13 +33,11 @@ Here are some highlights from my work:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aleenashahid21&theme=radical&margin-w=15&margin-h=15)
 
 ## 📌 Pinned Repositories
-[![ENROLLIX](https://github-readme-stats.vercel.app/api/pin/?username=aleenashahid21&repo=ENROLLIX&theme=radical)](https://github.com/aleenashahid21/ENROLLIX)
-[![GDP-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=aleenashahid21&repo=GDP-Analyzer&theme=radical)](https://github.com/aleenashahid21/GDP-Analyzer)
+[![ENROLLIX](https://github.com/aleenashahid21/ENROLLIX)
+[![GDP-Analyzer](https://github.com/aleenashahid21/GDP-Analyzer)
 
 ## 🌐 Connect With Me
-- 📫 Email: your-email@example.com
+- 📫 Email: aleenashahid.019664@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/aleena-shahid](https://linkedin.com/in/aleena-shahid)
-- 🐦 Twitter: [@aleena_shahid](https://twitter.com/aleena_shahid)
 
----
 ✨ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
