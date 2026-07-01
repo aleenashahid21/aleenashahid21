@@ -1,66 +1,104 @@
-# Hi there, I'm Aleena 👋
-*Computer Science Student | AI/ML Enthusiast*
+<h1 align="center">Hi there, I'm Aleena Shahid 👋</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=aleenashahid21&color=blue)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=550&lines=BSCS+Student+%40+FAST-NUCES;Learning+Software+Dev+%26+Machine+Learning;Exploring+Computer+Vision+with+OpenCV+%26+MediaPipe;Looking+for+an+Internship+to+Grow+%26+Learn+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
----
-
-## 🚀 About Me
-I'm a passionate developer exploring AI/ML, Bioinformatics, computer vision, and modular project structures.
-
-- 🧠 Currently learning TensorFlow, OpenCV, and Deep Learning
-- 💻 Building projects in Python, JavaScript, and C++  
-- 🌐 Open to collaboration and opportunities  
-- ⚡ Fun fact:
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-Python | JavaScript | C++ | SQL | HTML5 | CSS3  
-
-**Frameworks & Libraries**  
-TensorFlow | Mediapipe | OpenCV | Scikit-learn | Pandas | Matplotlib | Seaborn  
-
-**Databases & Tools**  
-SQL Server | Git | GitHub | VS Code | Jupyter | PowerShell  
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Highlights
-- **Low-Level Programming:** Data structures & games in C++  
-- **Machine Learning:** TensorFlow, Mediapipe, Scikit-learn projects  
-- **Data Science:** Pandas, Matplotlib, Seaborn for analysis  
-- **Full-Stack Projects:** ENROLLIX (JavaScript), GDP-Analyzer (Python)  
+### 👩‍💻 About Me
+
+- 🎓 BSCS student at **FAST-NUCES**
+- 🌱 Currently sharpening my skills in web development and machine learning
+- 🔭 Building projects like **ENROLLIX** and **OrthoVision**
+- 🤝 Actively looking for an **internship** where I can learn, grow, and connect with the CS community
+- 📚 When I'm not coding, you'll find me reading a good book
+- ⚡ Fun fact: I like exploring how AI can solve everyday problems
 
 ---
 
-## 📂 Projects Showcase
-- 🔹 [ENROLLIX](https://github.com/aleenashahid21/ENROLLIX) – Course registration system (JavaScript)  
-- 🔹 [GDP-Analyzer](https://github.com/aleenashahid21/GDP-Analyzer) – Analyze World Bank GDP data (Python)  
-- 🔹 [Battleship-Game](https://github.com/aleenashahid21/Battleship-Game) – Digital recreation of the classic naval strategy game (C++)  
-- 🔹 [LinkedLists](https://github.com/aleenashahid21/LinkedLists) – Implementations of single, double, and circular linked lists (C++)  
+### 🛠️ Tech Stack
+
+**Languages & Web**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+</p>
+
+**Machine Learning & Computer Vision**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+</p>
+
+> 💡 Still solidifying core syntax in React, Node.js, and JavaScript — learning by building!
 
 ---
 
-## 📊 GitHub Stats
-![Aleena's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleenashahid21&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleenashahid21&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleenashahid21&theme=radical)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aleenashahid21&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aleenashahid21&theme=radical&margin-w=15&margin-h=15)  
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📋 ENROLLIX</h3>
+      <p>A project focused on streamlining and simplifying the enrollment process.</p>
+      <!-- Update this link once your repo is live -->
+      <a href="https://github.com/aleenashahid21/ENROLLIX"><img src="https://img.shields.io/badge/View-Repo-6C5CE7?style=flat-square&logo=github" /></a>
+    </td>
+    <td width="50%">
+      <h3>🦴 OrthoVision</h3>
+      <p>A computer vision project using OpenCV and MediaPipe Pose to analyze body posture/movement.</p>
+      <!-- Update this link once your repo is live -->
+      <a href="https://github.com/aleenashahid21/OrthoVision"><img src="https://img.shields.io/badge/View-Repo-6C5CE7?style=flat-square&logo=github" /></a>
+    </td>
+  </tr>
+</table>
+
+*(Descriptions are my best guess from the project names — feel free to swap in your real one-liners!)*
 
 ---
 
-## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/aleenashahid21/aleenashahid21/blob/output/github-contribution-grid-snake.svg)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleenashahid21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleenashahid21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenashahid21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 📫 Email: aleenashahid.019664@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/aleena-shahid](https://www.linkedin.com/in/aleena-shahid-86220628b/)  
-
----
-✨ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
+<p align="center">
+  <i>Open to internships in software engineering, ML, or CV — let's connect! 🚀</i>
+</p>
