@@ -143,3 +143,8 @@ It needs a small GitHub Action, not just README code:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer banner" width="100%"/>
 </p>
+---
+
+### 🐍 Contribution Snake
+![GitHub Contribution Snake](https://github.com/aleenashahid21/aleenashahid21/blob/output/snake.svg)
+
