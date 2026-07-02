@@ -145,6 +145,4 @@ It needs a small GitHub Action, not just README code:
 </p>
 ---
 
-### 🐍 Contribution Snake
-![GitHub Contribution Snake](https://github.com/aleenashahid21/aleenashahid21/blob/output/snake.svg)
 
