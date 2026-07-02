@@ -12,8 +12,8 @@
 - 🧠 Exploring **Computer Vision** with OpenCV and MediaPipe Pose
 - 🌐 Crafting web experiences with **React**, **Node.js**, and **JavaScript** — still solidifying the core syntax as I build
 - 🤝 Open to **internships** where I can learn, grow, and network within the CS community
-- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development
-- 📖 When I'm not coding, I'm usually reading a good book
+- 📚 Interested in: AI/ML, Computer Vision, Full-Stack Development, Bioinformatics
+- 📖 Always curious, Always building
 
 ---
 
